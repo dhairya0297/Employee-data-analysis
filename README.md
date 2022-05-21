@@ -30,3 +30,10 @@ Creating an end-to-end data pipeline and evaluating the data are the goals of th
 -Data for department managers (dept manger.csv)--
 
 -Employee data from the department (dept emp.csv)--
+
+
+#Steps followed
+(https://www.quickdatabasediagrams.com/) was used to construct an ER diagram.
+Using sqoop, I built a data pipeline to pull data from tables and SQL server into Hive.
+Impala and SparkSQL were used to perform exploratory data analysis.
+Created a machine learning model and a machine learning pipeline
